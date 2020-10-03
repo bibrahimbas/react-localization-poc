@@ -1,0 +1,13 @@
+.dropdown {
+    padding: 1% 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-section {
+    color: red;
+    background-color: khaki;
+    margin: 5% 30% 0 30%;
+    padding: 1% 0;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
